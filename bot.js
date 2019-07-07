@@ -8,7 +8,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : DREAM ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`مش شايفكم`,"http://twitch.tv/مش شايفكم")
+client.user.setGame(`مرنا كيوت`,"http://twitch.tv/مرنا كيوت")
 client.user.setStatus("dnd")
 });
 
